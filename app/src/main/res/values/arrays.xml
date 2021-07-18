@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unit_list">
+        <item>Metric °C</item>
+        <item>Imperial °F</item>
+    </string-array>
+
+    <string-array name="unit_values">
+        <item>Metric °C</item>
+        <item>Imperial °F</item>
+    </string-array>
+
+</resources>

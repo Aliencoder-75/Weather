@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="item1">Refresh</string>
+    <string name="item2">Settings</string>
+    <string name="item3">About Us</string>
+    <string name="android_developers">Android Developers</string>
+    <string name="xcode">x c o d e</string>
+    <string name="mail">io.coder07@gmail.com</string>
+    <string name="git_profile">io.coder07</string>
+    <string name="twitter">\@io.coder07</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="today">TODAY</string>
+    <string name="notification">Notification</string>
+    <string name="on_going_notification">On-going Notification</string>
+    <string name="location">Location</string>
+    <string name="location_text">Location</string>
+    <string name="units">Units</string>
+    <string name="units_text">Units</string>
+    <string name="metric">Metric °C</string>
+    <string name="sendData">sendData</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+</resources>
