@@ -103,6 +103,8 @@ public class Settings extends AppCompatActivity {
             units_text.setText("Metric °C");
         } else if (unit.equals("imperial")) {
             units_text.setText("Imperial °F");
+        } else {
+            units_text.setText("Metric °C");
         }
     }
 

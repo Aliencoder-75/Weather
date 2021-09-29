@@ -38,7 +38,7 @@ public class fetch extends AsyncTask<Void, Void, Void> {
         Log.d("target", "doInBackground: "+ location);
         Log.d("target", "doInBackground: "+ units);
 
-        if(units == null) {
+        if(units == "") {
             units = "metric";
         }
 
